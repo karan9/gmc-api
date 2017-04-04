@@ -19,20 +19,32 @@
 	},
 	"college_data": {
 		"college_1": {
-			"college_name": "SS University",
-			"college_image": "http:\/\/lorempixel.com\/400\/400"
+			"college_name": "SS ENGINEERING",
+			"college_id": "CMED455714",
+			"college_image": "https://goo.gl/VBqe33",
+			"college_logo": "https://goo.gl/tu1tl4",
+			"college_location": "Udaipur, Rajasthan"
 		},
 		"college_2": {
-			"college_name": "KGM University",
-			"college_image": "http:\/\/lorempixel.com\/400\/400"
+			"college_name": "SAME",
+			"college_id": "CAVIA901484",
+			"college_image": "https://goo.gl/5eVu9L",
+			"college_logo": "https://goo.gl/FYTZCc",
+			"college_location": "Greater Noida, Uttar Pradesh"
 		},
 		"college_3": {
-			"college_name": "Onano University",
-			"college_image": "http:\/\/lorempixel.com\/400\/400"
+			"college_name": "HM AVIATION",
+			"college_id": "CAVIA186635",
+			"college_image": "https://goo.gl/orRXDE",
+			"college_logo": "https://goo.gl/ZM94m3",
+			"college_location": "Delhi, New Delhi"
 		},
 		"college_4": {
-			"college_name": "karan University",
-			"college_image": "http:\/\/lorempixel.com\/400\/400"
+			"college_name": "IILM ACADEMY",
+			"college_id": "CMGMT342607",
+			"college_image": "https://goo.gl/GjM3MT",
+			"college_logo": "https://goo.gl/XO0724",
+			"college_location": "Greater Noida, Uttar Pradesh"
 		}
 	}
 }
