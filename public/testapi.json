@@ -1,0 +1,38 @@
+{
+	"course_data": {
+		"course_1": {
+			"course_name": "MBBS",
+			"course_image": "http:\/\/lorempixel.com\/400\/400"
+		},
+		"course_2": {
+			"course_name": "BTECH",
+			"course_image": "http:\/\/lorempixel.com\/400\/400"
+		},
+		"course_3": {
+			"course_name": "BAMS",
+			"course_image": "http:\/\/lorempixel.com\/400\/400"
+		},
+		"course_4": {
+			"course_name": "PGDM",
+			"course_image": "http:\/\/lorempixel.com\/400\/400"
+		}
+	},
+	"college_data": {
+		"college_1": {
+			"college_name": "SS University",
+			"college_image": "http:\/\/lorempixel.com\/400\/400"
+		},
+		"college_2": {
+			"college_name": "KGM University",
+			"college_image": "http:\/\/lorempixel.com\/400\/400"
+		},
+		"college_3": {
+			"college_name": "Onano University",
+			"college_image": "http:\/\/lorempixel.com\/400\/400"
+		},
+		"college_4": {
+			"college_name": "karan University",
+			"college_image": "http:\/\/lorempixel.com\/400\/400"
+		}
+	}
+}
