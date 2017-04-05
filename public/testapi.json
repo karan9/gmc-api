@@ -1,4 +1,4 @@
-{
+ {
 	"course_data": {
 		"course_1": {
 			"course_name": "MBBS",
@@ -13,7 +13,7 @@
 			"course_image": "https://s11.postimg.org/4fbrcztcz/aviation_gmc.jpg"
 		},
 		"course_4": {
-			"course_name": "PGDM",
+			"course_name": "MBA",
 			"course_image": "https://s12.postimg.org/52skvw3kt/btech_gmc.jpg"
 		}
 	},
