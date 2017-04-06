@@ -2,19 +2,19 @@
 	"course_data": {
 		"course_1": {
 			"course_name": "MBBS",
-			"course_image": "https://s27.postimg.org/4mwerj2c3/mbbs_gmc.jpg"
+			"course_image": "https://goo.gl/FMIyvF"
 		},
 		"course_2": {
 			"course_name": "BTECH",
-			"course_image": "https://s24.postimg.org/dtpagivet/mtech.jpg"
+			"course_image": "https://goo.gl/x8kUUj"
 		},
 		"course_3": {
 			"course_name": "AVIATION",
-			"course_image": "https://s11.postimg.org/4fbrcztcz/aviation_gmc.jpg"
+			"course_image": "https://goo.gl/OHfDw6"
 		},
 		"course_4": {
 			"course_name": "MBA",
-			"course_image": "https://s12.postimg.org/52skvw3kt/btech_gmc.jpg"
+			"course_image": "https://goo.gl/nDwKp1"
 		}
 	},
 	"college_data": {
