@@ -1,19 +1,19 @@
  {
 	"course_data": {
 		"course_1": {
-			"course_name": "MBBS",
+			"course_name": "SAME",
 			"course_image": "https://s22.postimg.org/s5ailkgi9/same.png"
 		},
 		"course_2": {
-			"course_name": "BTECH",
-			"course_image": "http://itmuniversity.ac.in/wp-content/uploads/2016/05/slider-new.jpg"
+			"course_name": "ITM",
+			"course_image": "https://s14.postimg.org/ch4uidkoh/slider-new.jpg"
 		},
 		"course_3": {
-			"course_name": "AVIATION",
+			"course_name": "SRM",
 			"course_image": "https://s4.postimg.org/pafyqm8nh/srm.png"
 		},
 		"course_4": {
-			"course_name": "MBA",
+			"course_name": "VIT",
 			"course_image": "https://s14.postimg.org/rnatlwl0h/vit.png"
 		}
 	},
